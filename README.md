@@ -1,10 +1,10 @@
-# tambiTTu
+# taMbiTTu
 > explore R packages as morsels!
 
 Quick and simple Vigentte like code snippets in a jupyter notebook for quick package exploration!
 You are welcome to add more tambiTTs!
 
-What is a `tambiTTu(ತಂಬಿಟ್ಟು)`?
+What is a `taMbiTTu(ತಂಬಿಟ್ಟು)`?
 
 It is a  delicious morsel [we](https://en.wikipedia.org/wiki/Kannada_people) eat!
 
